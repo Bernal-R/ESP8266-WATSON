@@ -19,4 +19,4 @@ Este código muestra como conectar un esp8266 a IBM Watson.
 
 
 ### Tutorial de Paso a Paso disponible en:
-* Instructables: 
+* Instructables: https://www.instructables.com/id/Conectar-ESP8266-a-Watson
